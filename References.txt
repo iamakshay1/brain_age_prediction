@@ -1,0 +1,2 @@
+https://github.com/94929/age-regression-from-brain-mri-images/blob/master/MLI-CW-2.ipynb
+OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
