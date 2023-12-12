@@ -1,2 +1,5 @@
-https://github.com/94929/age-regression-from-brain-mri-images/blob/master/MLI-CW-2.ipynb
-OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
+We have used the following contributions for the project-
+
+1. https://github.com/94929/age-regression-from-brain-mri-images/blob/master/MLI-CW-2.ipynb - This is a notebook that works on the same dataset we have used. We have taken inspiration from the work done in this repository. 
+
+2. OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
